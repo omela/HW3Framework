@@ -3,17 +3,25 @@ package epam.oksanaomelyanchuk;
 import applicationPages.navigationUtil.PageNavigationUtil;
 import applicationPages.pages.*;
 import epam.oksanaomelyanchuk.core.Log;
+import org.apache.log4j.Level;
+import org.apache.log4j.Logger;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import java.io.IOException;
 import org.junit.jupiter.api.*;
+import org.testng.annotations.BeforeTest;
+
 import static epam.oksanaomelyanchuk.core.Log.getLogger;
 import static org.assertj.core.api.Assertions.assertThat;
 /**
  * Unit test for simple App.
  */
 public class JUnitAppTest {
+    @BeforeTest
+    public void setLoggerONRootOff(){
+        Logger.getRootLogger().setLevel(Level.OFF);
+    }
 @org.junit.jupiter.api.Test
 @DisplayName("JUnit test that fails")
 public void sometest() throws IOException

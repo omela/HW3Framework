@@ -4,56 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db887a43-12d5-4076-acf9-21214af2c780" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/AutomationWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/DriverWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/ElementWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/MyEventListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/elements/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/elements/FieldDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/elements/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/elements/Label.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/elements/Link.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/elements/LocatingCustomElementListHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/elements/WrapperFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/entityBuilders/builders/UserBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/entityBuilders/entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/factory/UserFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/interfaces/elements/IButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/interfaces/elements/IElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/interfaces/elements/IInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/interfaces/elements/ILabel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/interfaces/elements/ILink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/enums/LogType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/utils/Propertiator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/utils/ScreenshotUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/utils/StringGenerateUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/applicationPages/navigationUtil/PageNavigationUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/applicationPages/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/applicationPages/pages/EpamMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/applicationPages/pages/GooglePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/applicationPages/pages/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/applicationPages/pages/SearchResultPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/applicationPages/pages/SoftServeMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cucumberJava/test/myCucumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cucumberJava/test/userStory1Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/epam/oksanaomelyanchuk/JUnitAppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/jBehave/JBehaveTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/jBehave/steps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Flow.story" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/userStory1.feature" afterDir="false" />
+    <list default="true" id="db887a43-12d5-4076-acf9-21214af2c780" name="Changes" comment="final version of framework">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/MyEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/MyEventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/utils/Propertiator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/utils/Propertiator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/applicationPages/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/applicationPages/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/epam/oksanaomelyanchuk/JUnitAppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/oksanaomelyanchuk/JUnitAppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,14 +75,14 @@
       <recent name="C:\Users\Oksana_Omelyanchuk\IdeaProjects\MyFrameworkSkeleton" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="epam.oksanaomelyanchuk.core" />
       <recent name="applicationPages.pages" />
       <recent name="applicationPages.navigationUtil" />
       <recent name="epam.oksanaomelyanchuk.core.elements" />
-      <recent name="epam.oksanaomelyanchuk.core" />
       <recent name="epam.oksanaomelyanchuk.enums" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.JBehaveTestForTestNGRunning">
+  <component name="RunManager" selected="JUnit.JUnitAppTest">
     <configuration name="Feature: userStory1" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/userStory1.feature" />
@@ -201,8 +159,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.JBehaveTestForTestNGRunning" />
         <item itemvalue="JUnit.JUnitAppTest" />
+        <item itemvalue="JUnit.JBehaveTestForTestNGRunning" />
         <item itemvalue="TestNG.C:/Users/Oksana_Omelyanchuk/IdeaProjects/MyFrameworkSkeleton/src/test/resources/testNG.xml" />
         <item itemvalue="JUnit.steps.openEpamPage" />
         <item itemvalue="Cucumber Java.Feature: userStory1" />
@@ -218,12 +176,25 @@
       <option name="presentableId" value="Default" />
       <updated>1693813589324</updated>
       <workItem from="1693813590423" duration="5510000" />
-      <workItem from="1693823085835" duration="116299000" />
+      <workItem from="1693823085835" duration="119398000" />
     </task>
+    <task id="LOCAL-00001" summary="final version of framework">
+      <option name="closed" value="true" />
+      <created>1694372936834</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694372936834</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final version of framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="final version of framework" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
