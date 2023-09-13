@@ -26,17 +26,15 @@ public class JUnitAppTest {
 @DisplayName("JUnit test that fails")
 public void sometest() throws IOException
 {
-
     Log.getLogger().error("This is a error message");
     Log.getLogger().trace("This is a trace message");
-   Log.setName(JUnitAppTest.class.getName()+"  test()");
+   //Log.setName(JUnitAppTest.class.getName()+"  test()");
    getLogger().error("new test");
     PageNavigationUtil.toMainPage().writeButton(MainPage.FIND_MESSAGE1);
-
-    Assertions.assertAll(()->assertThat(PageNavigationUtil.toSoftserve().getUrl()).as("Fail URL").isEqualTo(EpamMain.URL_ADDRESS),
-            ()->assertThat(PageNavigationUtil.toSoftserve().getUrl()).as("OK URL").isEqualTo(SoftServeMain.URL_ADDRESS),
-            ()->assertThat(PageNavigationUtil.toSoftserve().getUrl()).as("Fail URL").isEqualTo(EpamMain.URL_ADDRESS)
-    );
+  //  PageNavigationUtil.toMainPage().writeButton(MainPage.FIND_MESSAGE).getFirstResult();
+    Assertions.assertTrue(PageNavigationUtil.toMainPage().writeButton(MainPage.FIND_MESSAGE).getFirstResult().isBlank()); // fail
+// to pass  Assertions.assertFalse(PageNavigationUtil.toMainPage().writeButton(MainPage.FIND_MESSAGE).getFirstResult().isBlank());
+ // to fail   Assertions.assertAll(()->assertThat(PageNavigationUtil.toSoftserve().getUrl()).as("Fail URL").isEqualTo(EpamMain.URL_ADDRESS),()->assertThat(PageNavigationUtil.toSoftserve().getUrl()).as("OK URL").isEqualTo(SoftServeMain.URL_ADDRESS),()->assertThat(PageNavigationUtil.toSoftserve().getUrl()).as("Fail URL").isEqualTo(EpamMain.URL_ADDRESS));
 }
 @Nested
 @DisplayName("nested class for tests")
@@ -69,7 +67,8 @@ class MyNestedClasses {
     @Test
     static void closeBrowser()
 {
-    MainPage.closeBrowser();
+  //  socket exeption for latest chrome , will probably need some wait before closing
+    //  MainPage.closeBrowser();
 }
 
 }

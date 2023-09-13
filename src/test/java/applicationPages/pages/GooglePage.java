@@ -8,7 +8,7 @@ import java.io.IOException;
 
 public class GooglePage extends BasePage{
     public static final String URL_ADDRESS = "https://www.google.com/";
-     @Getter private Button lucky = new Button(ElementWrapper.findByXpath("RNmpXc"));
+     @Getter private Button lucky = new Button(ElementWrapper.findByXpath("MV3Tnb"));
 
     public GooglePage() throws IOException {
 
