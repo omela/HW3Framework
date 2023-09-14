@@ -6,11 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="db887a43-12d5-4076-acf9-21214af2c780" name="Changes" comment="final version of framework">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/DriverWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/DriverWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/ElementWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/ElementWrapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/Log.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/MyEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/core/MyEventListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/utils/Propertiator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epam/oksanaomelyanchuk/utils/Propertiator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/applicationPages/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/applicationPages/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/applicationPages/navigationUtil/PageNavigationUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/applicationPages/navigationUtil/PageNavigationUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/applicationPages/pages/GooglePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/applicationPages/pages/TestPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/applicationPages/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/applicationPages/pages/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cucumberJava/test/myCucumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cucumberJava/test/myCucumberTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/epam/oksanaomelyanchuk/JUnitAppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/oksanaomelyanchuk/JUnitAppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,25 +44,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Oksana_Omelyanchuk/IdeaProjects/MyFrameworkSkeleton/src/test/resources",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Oksana_Omelyanchuk/IdeaProjects/MyFrameworkSkeleton/src/test/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="jBehave" />
@@ -83,24 +85,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.JUnitAppTest">
-    <configuration name="Feature: userStory1" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/userStory1.feature" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="MyFrameworkSkeleton" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: userStory1" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="JBehaveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyFrameworkSkeleton" />
       <extension name="coverage">
@@ -131,28 +115,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="steps.openEpamPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JUnitAppTest.sometest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyFrameworkSkeleton" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jBehave.*" />
+          <option name="PATTERN" value="epam.oksanaomelyanchuk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="jBehave" />
-      <option name="MAIN_CLASS_NAME" value="jBehave.steps" />
-      <option name="METHOD_NAME" value="openEpamPage" />
+      <option name="PACKAGE_NAME" value="epam.oksanaomelyanchuk" />
+      <option name="MAIN_CLASS_NAME" value="epam.oksanaomelyanchuk.JUnitAppTest" />
+      <option name="METHOD_NAME" value="sometest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Oksana_Omelyanchuk/IdeaProjects/MyFrameworkSkeleton/src/test/resources/testNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="JUnitAppTest.testPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyFrameworkSkeleton" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testNG.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="epam.oksanaomelyanchuk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="epam.oksanaomelyanchuk" />
+      <option name="MAIN_CLASS_NAME" value="epam.oksanaomelyanchuk.JUnitAppTest" />
+      <option name="METHOD_NAME" value="testPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userStory1Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyFrameworkSkeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumberJava.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cucumberJava.test" />
+      <option name="MAIN_CLASS_NAME" value="cucumberJava.test.userStory1Runner" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -160,10 +165,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.JUnitAppTest" />
-        <item itemvalue="JUnit.JBehaveTestForTestNGRunning" />
-        <item itemvalue="TestNG.C:/Users/Oksana_Omelyanchuk/IdeaProjects/MyFrameworkSkeleton/src/test/resources/testNG.xml" />
-        <item itemvalue="JUnit.steps.openEpamPage" />
-        <item itemvalue="Cucumber Java.Feature: userStory1" />
+        <item itemvalue="JUnit.JBehaveTest" />
+        <item itemvalue="JUnit.userStory1Runner" />
+        <item itemvalue="JUnit.JUnitAppTest.testPage" />
+        <item itemvalue="JUnit.JUnitAppTest.sometest" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +181,8 @@
       <option name="presentableId" value="Default" />
       <updated>1693813589324</updated>
       <workItem from="1693813590423" duration="5510000" />
-      <workItem from="1693823085835" duration="119398000" />
+      <workItem from="1693823085835" duration="119785000" />
+      <workItem from="1694593619717" duration="15407000" />
     </task>
     <task id="LOCAL-00001" summary="final version of framework">
       <option name="closed" value="true" />
@@ -186,7 +192,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694372936834</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="final version of framework">
+      <option name="closed" value="true" />
+      <created>1694412880050</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694412880050</updated>
+    </task>
+    <task id="LOCAL-00003" summary="final version of framework">
+      <option name="closed" value="true" />
+      <created>1694597142855</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694597142855</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

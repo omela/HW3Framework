@@ -5,13 +5,11 @@ import applicationPages.pages.*;
 import epam.oksanaomelyanchuk.core.Log;
 import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
-import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import java.io.IOException;
 import org.junit.jupiter.api.*;
 import org.testng.annotations.BeforeTest;
-
 import static epam.oksanaomelyanchuk.core.Log.getLogger;
 import static org.assertj.core.api.Assertions.assertThat;
 /**
@@ -63,12 +61,10 @@ class MyNestedClasses {
     }
 
 }
-@AfterAll
-    @Test
-    static void closeBrowser()
-{
-  //  socket exeption for latest chrome , will probably need some wait before closing
-    //  MainPage.closeBrowser();
+  // @AfterAll
+  @Test
+  public void testPage() throws IOException {
+      String s =PageNavigationUtil.toTestPage().enter("java").check().toString();
+   Assertions.assertTrue(s.equalsIgnoreCase("Java For Testers"));
 }
-
 }

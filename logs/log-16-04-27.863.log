@@ -1,0 +1,196 @@
+15:59:44.014 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - new test
+15:59:44.015 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigating to google.com
+15:59:49.773 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+15:59:49.773 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+15:59:49.813 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - writting selenium to Button
+15:59:55.389 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+15:59:55.389 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+15:59:55.468 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+15:59:55.468 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+15:59:55.504 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+16:01:56.566 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - new test
+16:01:56.566 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigating to google.com
+16:02:02.857 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:02.869 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:02.923 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - writting selenium to Button
+16:02:08.601 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:08.601 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:08.667 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:08.667 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:08.691 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+16:02:24.619 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - new test
+16:02:24.631 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigating to google.com
+16:02:30.746 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:30.746 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:30.793 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - writting selenium to Button
+16:02:36.171 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.171 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.225 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.225 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.250 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+6:02:08.667 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:08.667 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:08.691 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+16:02:24.619 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - new test
+16:02:24.631 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigating to google.com
+16:02:30.746 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:30.746 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:30.793 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - writting selenium to Button
+16:02:36.171 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.171 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.225 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.225 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.250 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+6:02:08.667 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:08.667 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:08.691 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+16:02:24.619 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - new test
+16:02:24.631 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigating to google.com
+16:02:30.746 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:30.746 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:30.793 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - writting selenium to Button
+16:02:36.171 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.171 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.225 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.225 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.250 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+6:02:08.667 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:08.667 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:08.691 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+16:02:24.619 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - new test
+16:02:24.631 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigating to google.com
+16:02:30.746 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:30.746 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:30.793 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - writting selenium to Button
+16:02:36.171 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.171 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.225 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.225 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.250 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+6:02:08.667 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:08.667 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:08.691 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+16:02:24.619 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - new test
+16:02:24.631 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigating to google.com
+16:02:30.746 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:30.746 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:30.793 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - writting selenium to Button
+16:02:36.171 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.171 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.225 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.225 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.250 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+6:02:08.667 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:08.667 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:08.691 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+16:02:24.619 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - new test
+16:02:24.631 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigating to google.com
+16:02:30.746 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:30.746 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:30.793 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - writting selenium to Button
+16:02:36.171 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.171 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.225 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.225 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.250 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+6:02:08.667 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:08.667 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:08.691 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+16:02:24.619 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - new test
+16:02:24.631 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigating to google.com
+16:02:30.746 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:30.746 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:30.793 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - writting selenium to Button
+16:02:36.171 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.171 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.225 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.225 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.250 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+6:02:08.667 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:08.667 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:08.691 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+16:02:24.619 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - new test
+16:02:24.631 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigating to google.com
+16:02:30.746 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:30.746 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:30.793 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - writting selenium to Button
+16:02:36.171 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.171 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.225 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.225 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.250 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+6:02:08.667 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:08.667 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:08.691 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+16:02:24.619 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - new test
+16:02:24.631 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigating to google.com
+16:02:30.746 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:30.746 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:30.793 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - writting selenium to Button
+16:02:36.171 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.171 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.225 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.225 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.250 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+6:02:08.667 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:08.667 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:08.691 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+16:02:24.619 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - new test
+16:02:24.631 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigating to google.com
+16:02:30.746 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:30.746 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:30.793 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - writting selenium to Button
+16:02:36.171 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.171 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.225 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.225 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.250 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+6:02:08.667 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:08.667 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:08.691 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+16:02:24.619 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - new test
+16:02:24.631 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigating to google.com
+16:02:30.746 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:30.746 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:30.793 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - writting selenium to Button
+16:02:36.171 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.171 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.225 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.225 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.250 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+6:02:08.667 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:08.667 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:08.691 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+16:02:24.619 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - new test
+16:02:24.631 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigating to google.com
+16:02:30.746 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:30.746 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:30.793 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - writting selenium to Button
+16:02:36.171 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.171 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.225 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.225 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.250 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+6:02:08.667 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:08.667 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:08.691 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+16:02:24.619 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - new test
+16:02:24.631 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigating to google.com
+16:02:30.746 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:30.746 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:30.793 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - writting selenium to Button
+16:02:36.171 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.171 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.225 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:02:36.225 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:02:36.250 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com
+16:03:18.809 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - new test
+16:03:18.821 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigating to google.com
+16:03:24.534 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:03:24.534 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:03:24.574 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - writting selenium to Button
+16:03:30.044 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:03:30.044 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:03:30.114 [main] ERROR epam.oksanaomelyanchuk.JUnitAppTest  test() - dkgjdljdkfdjfkdf
+16:03:30.115 [main] TRACE epam.oksanaomelyanchuk.JUnitAppTest  test() - ttttttt
+16:03:30.139 [main] INFO  epam.oksanaomelyanchuk.JUnitAppTest  test() - navigation to softserve.com

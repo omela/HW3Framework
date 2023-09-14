@@ -26,7 +26,7 @@ public class ElementWrapper {
             }
         });
     }
-    public static WebElement findOne(final String id)
+    public static WebElement byId(final String id)
     {
         return DriverWrapper.getFindFluentWait().until(new Function<WebDriver, WebElement>()
         {
@@ -41,7 +41,7 @@ public class ElementWrapper {
             }
         });
     }
-    public static WebElement findByXpath(final String className)
+    public static WebElement findByClassName(final String className)
     {
         return DriverWrapper.getFindFluentWait().until(new Function<WebDriver, WebElement>()
         {
@@ -71,7 +71,7 @@ public class ElementWrapper {
             }
         });
     }
-    public static WebElement findByElXpath(final String name)
+    public static WebElement findByElXpathName(final String name)
     {
         return DriverWrapper.getFindFluentWait().until(new Function<WebDriver, WebElement>()
         {

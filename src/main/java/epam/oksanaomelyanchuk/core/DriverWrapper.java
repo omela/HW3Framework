@@ -19,10 +19,11 @@ public class DriverWrapper {
        // EventFiringWebDriver  is deprecated
         WebDriver decoratedDriver=null;
         String type = Propertiator.getPropertie("driver");
+
         switch(type) {
             case "Chrome":
-
                 ChromeDriverService service = new ChromeDriverService.Builder().usingDriverExecutable(new File(System.getProperty("user.dir")+"\\chromedriver.exe")).usingAnyFreePort().build();
+
                 try {
                     service.start();
                 } catch (IOException e) {

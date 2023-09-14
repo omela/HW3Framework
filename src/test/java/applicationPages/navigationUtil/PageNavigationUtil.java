@@ -25,4 +25,8 @@ public class PageNavigationUtil {
         DriverWrapper.getDriver().navigate().to(EpamMain.URL_ADDRESS);
         return new EpamMain();
     }
+    public static TestPage toTestPage() throws IOException {
+        DriverWrapper.getDriver().navigate().to(TestPage.URL_ADDRESS);
+        return new TestPage();
+    }
 }
